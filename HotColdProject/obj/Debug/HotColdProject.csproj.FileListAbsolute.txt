@@ -1,0 +1,12 @@
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.exe.config
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.exe
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.pdb
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.csprojResolveAssemblyReference.cache
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.exe
+C:\Users\egrube\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.exe.config
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.exe
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\bin\Debug\HotColdProject.pdb
+C:\Users\Eric\Documents\Visual Studio 2015\Projects\Clothes\HotColdProject\obj\Debug\HotColdProject.csprojResolveAssemblyReference.cache
